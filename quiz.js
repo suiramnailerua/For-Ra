@@ -3,6 +3,7 @@ const questions = [
   ['What is the height of mount Everest?', '8888'],
   ['Where is the biggest construction on earth?', 'Guatemala'],
   ['Who is the most valued footbal player in the world?', 'Lionel Messi'],
+  ['How manny continents are there?', '7'],
   ['How manny continents are there?', '7']
 ];
 
